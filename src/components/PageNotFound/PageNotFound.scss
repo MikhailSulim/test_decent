@@ -1,0 +1,15 @@
+.page404 {
+  display: flex;
+  flex-direction: column;
+  gap: 5vh;
+  width: 100%;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  &__title {
+    font-size: 2rem;
+    margin: 0;
+    font-weight: 600;
+    color: rgb(193, 3, 3);
+  }
+}

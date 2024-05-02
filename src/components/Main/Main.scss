@@ -1,0 +1,19 @@
+.main {
+  max-width: 1200px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  text-align: center;
+  max-width: 1200px;
+  width: 100%;
+  border-bottom: 1px solid rgb(46, 62, 77);
+  margin-bottom: 4vh;
+  padding: 0.6rem;
+  color: rgb(46, 62, 77);
+  font-size: 2rem;
+  font-weight: 700;
+}
